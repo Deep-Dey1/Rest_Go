@@ -13,4 +13,12 @@ func Greet(name string) string {
     message := color.RedString("Hello,") + color.CyanString(name) + color.RedString("\nWelcome to Goland")
     return message
 
-    }
+ }
+
+
+
+
+
+
+
+
