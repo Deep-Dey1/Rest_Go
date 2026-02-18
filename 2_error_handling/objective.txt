@@ -1,0 +1,12 @@
+
+# Phase 1 : 
+
+1 ) create a greeting package
+----inside it define a Hello function to greet the user.
+2 ) create a hello.go file to run the main program.
+
+
+Phase 2 : 
+
+---- implement some error handling in the codes
+
